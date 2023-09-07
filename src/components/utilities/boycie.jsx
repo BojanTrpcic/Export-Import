@@ -1,0 +1,1 @@
+export const OneBritt = () => <h4>Boycie</h4>
